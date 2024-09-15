@@ -1,0 +1,7 @@
+google-api-python-client==2.145.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+pandas==2.0
+numpy==1.26
+pyarrow==17.0.0
+fastparquet==2024.5.0
